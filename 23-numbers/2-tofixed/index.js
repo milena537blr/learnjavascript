@@ -1,3 +1,1 @@
-let first = +prompt("First number", "");
-let second = +prompt("First number", "");
-alert(first + second);
+alert(Math.round(6.35 * 10) / 10);
